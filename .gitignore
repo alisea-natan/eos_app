@@ -1,0 +1,27 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+#pycharm
+.idea/
+
+#mac
+**/.DS_Store
+
+#win
+**/__pycache__
+
+#project_out_setup
+build/
+eos_app.egg-info/
+dist/
+
+#project
+.pytest_cache/
+.csv
+.json
